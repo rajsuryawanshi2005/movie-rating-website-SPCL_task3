@@ -50,6 +50,7 @@ MovieFlix
 └── assets # Images or icons (if any)
 
 # 📸 Screenshots
+<img width="1891" height="961" alt="image" src="https://github.com/user-attachments/assets/8532936d-6144-4d65-8f25-7b257c230451" />
 
 
 
