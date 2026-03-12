@@ -1,41 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>Movie Explorer</title>
+<title>MovieFlix</title>
 
 <link rel="stylesheet" href="style.css">
-
-<!-- Font Awesome -->
-<link rel="stylesheet"
-href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
 </head>
 
 <body>
 
 <header>
 
-<h1>🎬 Movie Explorer</h1>
+<h1>🎬 MovieFlix</h1>
+
+<div class="controls">
 
 <div class="search-box">
-<input type="text" id="searchInput" placeholder="Search movies...">
+
+<input type="text" id="searchInput" placeholder="Search movies" onkeyup="showSuggestions()">
+
+<div id="suggestions" class="suggestions"></div>
+
+</div>
+
 <button onclick="searchMovies()">Search</button>
+
 </div>
 
 </header>
 
-<main>
+<div class="categories">
 
-<div id="movieContainer" class="movie-container">
+<button onclick="loadRandom()">Random</button>
+<button onclick="loadBollywood()">Bollywood</button>
+<button onclick="loadTollywood()">Tollywood</button>
+<button onclick="loadSeries()">Web Series</button>
 
 </div>
 
+<main>
+<div id="movieContainer" class="movie-container"></div>
 </main>
 
-<!-- Modal -->
+<div class="pagination">
+
+<button onclick="prevPage()">Previous</button>
+
+<span id="pageNumbers"></span>
+
+<button onclick="nextPage()">Next</button>
+
+</div>
+
 <div id="movieModal" class="modal">
 
 <div class="modal-content">
@@ -52,4 +70,3 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
 
 </body>
 </html>
-
