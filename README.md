@@ -61,7 +61,7 @@ Live Link of Project :
 
 # 👨‍💻 Author
 
-**Raj Suryawnasshi**  
+**Raj Suryawanshi**  
 Saraswati College, Shegaon  
 
 ⭐ If you like this project, consider giving it a star on GitHub!
