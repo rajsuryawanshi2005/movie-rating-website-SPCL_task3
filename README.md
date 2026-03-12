@@ -51,8 +51,20 @@ MovieFlix
 
 # 📸 Screenshots
 <img width="1891" height="961" alt="image" src="https://github.com/user-attachments/assets/8532936d-6144-4d65-8f25-7b257c230451" />
+<img width="561" height="402" alt="image" src="https://github.com/user-attachments/assets/8d4e1a54-7a3b-46b7-b9e5-5d045ca9d185" />
+<img width="1628" height="867" alt="image" src="https://github.com/user-attachments/assets/a5a9a46c-5b43-45c7-b069-d9002550db02" />
+<img width="1883" height="873" alt="image" src="https://github.com/user-attachments/assets/b37bf032-b56e-4484-b608-0910f5e74f1b" />
 
+# 🌐 Live Demo
 
+Live Link of Project : 
+
+# 👨‍💻 Author
+
+**Raj Suryawnasshi**  
+Saraswati College, Shegaon  
+
+⭐ If you like this project, consider giving it a star on GitHub!
 
 
 
