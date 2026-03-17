@@ -57,7 +57,7 @@ MovieFlix
 
 # 🌐 Live Demo
 
-Live Link of Project : 
+Live Link of Project : https://movfliix.netlify.app/
 
 # 👨‍💻 Author
 
